@@ -1,0 +1,7 @@
+{
+    "id": 1,
+    "name": "Sample Item",
+    "description": "This is a sample item",
+    "price": 10.0,
+    "tax": 1.5
+  }
